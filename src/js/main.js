@@ -1,5 +1,5 @@
-// import "../css/style.css";
-// import "../css/scheme.css";
+import "../css/style.css";
+import "../css/scheme.css";
 
 const moreOptions = document.querySelector("#bmore");
 const bsShowMobileLinks = document.querySelector("#bmenu");
