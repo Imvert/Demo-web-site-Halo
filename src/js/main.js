@@ -1,5 +1,5 @@
-import "../css/style.css";
-import "../css/scheme.css";
+// import "../css/style.css";
+// import "../css/scheme.css";
 
 const moreOptions = document.querySelector("#bmore");
 const bsShowMobileLinks = document.querySelector("#bmenu");
@@ -30,9 +30,9 @@ const videos = [
   {
     id: "lOthvD1rMbQ",
   },
-  {
-    id: "nXDk86lQhto",
-  },
+  // {
+  //   id: "nXDk86lQhto",
+  // },
 ];
 
 const sliderContainer = document.querySelector("#slider");

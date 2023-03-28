@@ -24,9 +24,9 @@
 }
 
 /* Eliminar los scrolls */
-::-webkit-scrollbar {
+/* ::-webkit-scrollbar {
   display: none;
-}
+} */
 
 * {
   box-sizing: border-box;
@@ -295,8 +295,6 @@ h3 {
 #videos #slider #videos-container {
   display: flex;
   gap: 10px;
-  margin-left: 30px;
-  margin-right: -70px;
   width: 100%;
   justify-content: center;
   overflow: auto;
