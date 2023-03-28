@@ -181,7 +181,7 @@ header {
   width: 500px;
   position: absolute;
   z-index: 100;
-  top: 200px;
+  top: 100px;
   right: 100px;
   color: white;
   background-color: rgba(0, 0, 0, 0.5);
