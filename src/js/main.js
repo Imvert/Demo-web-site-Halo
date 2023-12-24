@@ -29,10 +29,7 @@ const videos = [
   },
   {
     id: "lOthvD1rMbQ",
-  },
-  // {
-  //   id: "nXDk86lQhto",
-  // },
+  },  
 ];
 
 const sliderContainer = document.querySelector("#slider");
